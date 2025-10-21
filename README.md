@@ -27,7 +27,8 @@ Tất cả các ứng dụng trong đây đều được thiết kế để:
 * Lợi ích: Không còn mất thời gian tìm kiếm file. Hệ thống thư mục khoa học, sẵn sàng để bạn tiếp tục làm việc.
 * Tệp để tải: gui_local_document_manager.exe
 
-Trình Quản lý Chỉ mục Tài liệu (Document Indexer)
+2. Trình Quản lý Chỉ mục Tài liệu (Document Indexer)
+
 Tìm kiếm file tức thì, ngay cả khi bạn không nhớ đã lưu ở đâu!
 
 * Chức năng: Tự động quét toàn bộ thư mục (và thư mục con) bạn chỉ định để tạo một "chỉ mục" (cơ sở dữ liệu) thông tin file. Cung cấp một giao diện tìm kiếm đơn giản để truy vấn tên file ngay lập tức.
