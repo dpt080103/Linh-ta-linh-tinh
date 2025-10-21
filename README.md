@@ -25,9 +25,16 @@ Tất cả các ứng dụng trong đây đều được thiết kế để:
 
 * Chức năng: Tự động tạo cấu trúc thư mục (Môn Học > Chủ Đề) trên máy tính của bạn. Lưu nội dung ghi chú vào các tệp .txt được sắp xếp theo ngày.
 * Lợi ích: Không còn mất thời gian tìm kiếm file. Hệ thống thư mục khoa học, sẵn sàng để bạn tiếp tục làm việc.
-* Tệp để tải: gui_local_document_manager.exe (Sắp ra mắt!)
+* Tệp để tải: gui_local_document_manager.exe
 
-2. Một số ứng dụng tương lai
+Trình Quản lý Chỉ mục Tài liệu (Document Indexer)
+Tìm kiếm file tức thì, ngay cả khi bạn không nhớ đã lưu ở đâu!
+
+* Chức năng: Tự động quét toàn bộ thư mục (và thư mục con) bạn chỉ định để tạo một "chỉ mục" (cơ sở dữ liệu) thông tin file. Cung cấp một giao diện tìm kiếm đơn giản để truy vấn tên file ngay lập tức.
+* Lợi ích: Giảm thời gian tìm kiếm một tài liệu (hợp đồng, báo cáo) từ 5-15 phút xuống còn 3 giây. Giải quyết triệt để vấn đề "quên" vị trí lưu file.
+* Tệp để tải: gui_document_indexer_gui.exe
+
+⚡ Một số ứng dụng tương lai
 
 | Vấn đề Nhức Nhói | Mô tả chi tiết (Tình trạng chung) | Ý tưởng Tool có thể giải quyết |
 | :--- | :--- | :--- |
